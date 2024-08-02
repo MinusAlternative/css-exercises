@@ -1,0 +1,19 @@
+.style {
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#first_div {
+    color: blue;
+    font-size: 36px;
+}
+
+.extra {
+    font-size: 24px;
+}
+
+#meow {
+    background-color: #90EE90;
+    font-size: 24px;
+    font-weight: bold;
+}
